@@ -6,14 +6,11 @@ A framework for evading machine learning based Windows PE malware classifiers. M
 
 # Set-up
 
-TO-DO
+(TO-DO)
 
 # Usage
 
-TO-DO
-
-???
-
+(TO-DO)
 
 File Information: 
 
@@ -23,6 +20,5 @@ diff_vars.sh		Bash script to print the differences between two different variant
 file_picker.py		Python script for randomly selecting a subset of samples to be used instead of the entire samples directory
 mutation_efficacy.py	Python script for measuring the average effect that each mutation had on the variants tested
 print_variant.py	Python script used to print out a binary file in LIEF binary format (used in the diff_vars.sh shell script)
-project.conf		configuration file that currently only takes in information to be used in the batch.py script
-
+project.conf		Configuration file that currently only takes in information to be used in the batch.py script
 gp.py			Main program
